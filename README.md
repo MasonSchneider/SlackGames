@@ -2,6 +2,11 @@
 Provides text based games to play in slack
 
 
+## Screenshots
+
+![Tic-Tac-Toe](http://i.imgur.com/w4hEDO1.png)
+
+
 ## Setup
 1. Create a bot integration key [here](https://my.slack.com/services/new/bot)
 2. Run Mongodb
