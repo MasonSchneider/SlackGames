@@ -1,0 +1,31 @@
+{
+  "name": "SlackGames",
+  "version": "0.0.0",
+  "description": "Allows slack users to play games in chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MasonSchneider/SlackGames.git"
+  },
+  "keywords": [
+    "slack",
+    "game",
+    "tic",
+    "tac",
+    "toe",
+    "chess",
+    "checkers"
+  ],
+  "author": "Mason Schneider",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasonSchneider/SlackGames/issues"
+  },
+  "dependencies": {
+    "mongodb": "^2.0.48",
+    "slack-client": "~1.4.1"
+  }
+}
